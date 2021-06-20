@@ -1,0 +1,2 @@
+rootProject.name = "AS_CHECK_BOX"
+include ':app'
